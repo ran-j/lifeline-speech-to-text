@@ -1,6 +1,6 @@
 # LifeLine Operator's Side (PC demo) — Speech-to-Text Reimplementation (Attempt)
 
-This project is an **attempt to reimplement the Life LineOperator Operator's Side ** speech-to-text system, based on behavior/data from the **PC demo**. 
+This project is an **attempt to reimplement the Life LineOperator Operator's Side** speech-to-text system, based on behavior/data from the **PC demo**. 
 
 ---
 
